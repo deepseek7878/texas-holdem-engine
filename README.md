@@ -1,3 +1,4 @@
+A high-performance poker engine designed for real-time gameplay and simulation.
 # Texas Hold'em Poker Engine
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/texas-holdem-engine?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-engine)
@@ -110,6 +111,24 @@ player = Player("Bob", 500)
 table.add_player(player)
 table.deal_hands()
 ```
+## 🧠 Core Engine Capabilities | 核心引擎能力
+
+- Poker hand evaluation system  
+- Game state transition engine  
+- Action validation logic  
+- Round & betting flow control
+## 🔌 API Example
+
+```js
+engine.createGame()
+engine.joinPlayer()
+engine.startRound()
+engine.processAction(player, action)
+## 🎯 Simulation Support
+
+- Multi-round simulation  
+- Strategy testing environment  
+- AI integration ready
 
 ## 📊 性能指标 / Performance / 效能指標
 
