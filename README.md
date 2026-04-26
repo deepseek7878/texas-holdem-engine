@@ -8,6 +8,8 @@ A high-performance poker engine designed for real-time gameplay and simulation.
 [![Release](https://img.shields.io/github/v/release/deepseek7878/texas-holdem-engine?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-engine/releases)
 
 **Professional Texas Hold'em poker engine / 德州源码 / 专业德州扑克游戏引擎 / 專業德州撲克遊戲引擎**  
+
+
 Complete Texas Hold'em rules implementation with betting, hand evaluation, table flow, and extensible architecture / 完整德州扑克规则实现，包含下注、牌型判断、牌桌流程，可扩展架构 / 完整德州撲克規則實作，包含下注、牌型判斷、牌桌流程，可擴充架構.
 
 ## 🎯 核心功能 / Key Features / 核心功能
