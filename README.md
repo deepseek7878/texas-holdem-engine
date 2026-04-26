@@ -9,6 +9,10 @@ A high-performance poker engine designed for real-time gameplay and simulation.
 
 **Professional Texas Hold'em poker engine / 德州源码 / 专业德州扑克游戏引擎 / 專業德州撲克遊戲引擎**  
 
+**真实运营数年 · 支持线下验证 ·ALLIN德州扑克源码 ·八个德州玩法，远超市场主流德州玩法**
+
+
+**简体中文 · 繁體中文 · English· 韩文· 马来文· 日文· 泰文· 印尼语·越南文**
 
 Complete Texas Hold'em rules implementation with betting, hand evaluation, table flow, and extensible architecture / 完整德州扑克规则实现，包含下注、牌型判断、牌桌流程，可扩展架构 / 完整德州撲克規則實作，包含下注、牌型判斷、牌桌流程，可擴充架構.
 
