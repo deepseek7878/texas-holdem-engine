@@ -23,7 +23,7 @@ Complete Texas Hold'em rules implementation with betting, hand evaluation, table
 
 ## 🚀 三步启动 / 3-Step Quick Start / 三步啟動
 
-```bash
+
 # 1. 下载源码
 git clone https://github.com/deepseek7878/texas-holdem-engine.git
 cd texas-holdem-engine
@@ -37,9 +37,9 @@ pip install -r requirements.txt  # Python
 npm run demo  # 运行Demo
 # 或
 python demo.py
-```
 
-**访问 `http://localhost:3000` 体验完整牌局！ / Experience full gameplay! / 體驗完整牌局！**
+
+**访问 `http://localhost:3000` 体验完整牌局！ / Experience full gameplay! / 體驗完整牌局！联系Telegram：@fox_lovemyself**
 
 ## 📱 💰 获取源码 | Contact
 
